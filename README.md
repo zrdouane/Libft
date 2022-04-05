@@ -2,7 +2,7 @@
 Libft (42cursus) 2021-2022
 
 - Actual Status : finished.
-- Result        : 125%
+- Result        : [![zrdouane's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2395510)]
 - Observations : (null)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
